@@ -20,7 +20,8 @@ namespace App1
     /// <summary>
     /// Frame 内へナビゲートするために利用する空欄ページ。
     /// </summary>
-    public sealed partial class MainPage : Page
+    /// 
+    public sealed partial class ZZZZMainPage : Page
     {
         public MainPage()
         {
