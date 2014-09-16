@@ -102,5 +102,17 @@ namespace App1
         }
 
         #endregion
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string mail_str = mail.Text;
+            string password_str = passwd.Text;
+            string url = "http://iosvm.cloudapp.net/ideabox/user/login";
+            if (mail_str.Length > 0 && password_str.Length > 0)
+            {
+                HttpClientBasic httpClinet = new HttpClientBasic();
+
+            }
+        }
     }
 }
