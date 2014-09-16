@@ -1,9 +1,5 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-<<<<<<< HEAD
-    <LocalAssembly PathName="e:\github\app1\app1\app1\app1.windows\obj\debug\intermediatexaml\app1.windows.exe" HashGuid="18a57d97-9b97-027e-7ac3-25abe2c6137a" />
-=======
-    <LocalAssembly PathName="c:\users\b-yuinou\documents\github\app1\app1\app1\app1.windows\obj\debug\intermediatexaml\app1.windows.exe" HashGuid="768a97de-b16e-6b01-9d59-50e65d31ae0d" />
->>>>>>> origin/master
+    <LocalAssembly PathName="c:\users\b-yuinou\documents\github\app1\app1\app1\app1.windows\obj\debug\intermediatexaml\app1.windows.exe" HashGuid="d2a6f93f-b374-9a9a-efe0-5b6e64c0f6ce" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>MIZUNE-PC</Machine>
-    <WindowsUser>Mizune</WindowsUser>
+    <Machine>YUTA-PC</Machine>
+    <WindowsUser>b-yuinou</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>23338903-b1a1-4942-a22c-0bb0ec3a4569</PackageIdentityName>
-    <IntermediateOutputPath>E:\GitHub\App1\App1\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>4FA03156147A1DA4C8EF2DD6842D70DB79AB9339B5CCCC4C455652435580AE8D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>23338903-b1a1-4942-a22c-0bb0ec3a4569_1.0.0.0_neutral__3rdh0wt8ssrce</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>23338903-b1a1-4942-a22c-0bb0ec3a4569_3rdh0wt8ssrce!App</RegisteredUserModeAppID>
@@ -17,52 +17,60 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\GitHub\App1\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-09-16T14:38:46.875</Modified>
+      <Modified>2014-09-16T15:27:54.732</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe">
       <PackagePath>App1.Windows.exe</PackagePath>
-      <Modified>2014-09-16T14:39:47.576</Modified>
+      <Modified>2014-09-16T15:27:53.208</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-09-16T14:30:41.571</Modified>
+      <Modified>2014-09-16T14:15:30.704</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-09-16T14:30:41.571</Modified>
+      <Modified>2014-09-16T14:15:30.705</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-09-16T14:30:41.572</Modified>
+      <Modified>2014-09-16T14:15:30.706</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-09-16T14:30:41.572</Modified>
+      <Modified>2014-09-16T14:15:30.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-09-16T14:38:46.570</Modified>
+      <Modified>2014-09-16T15:06:36.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\LoginPage.xbf">
+      <PackagePath>LoginPage.xbf</PackagePath>
+      <Modified>2014-09-16T15:26:29.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-09-16T14:39:47.458</Modified>
+      <Modified>2014-09-16T15:26:29.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\RegisterPage.xbf">
+      <PackagePath>RegisterPage.xbf</PackagePath>
+      <Modified>2014-09-16T15:26:29.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
       <PackagePath>App1.Windows.xr.xml</PackagePath>
-      <Modified>2014-09-16T14:38:46.541</Modified>
+      <Modified>2014-09-16T15:26:29.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\GitHub\App1\App1\App1\App1.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\b-yuinou\Documents\GitHub\App1\App1\App1\App1.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-09-16T14:38:46.787</Modified>
+      <Modified>2014-09-16T15:27:53.698</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

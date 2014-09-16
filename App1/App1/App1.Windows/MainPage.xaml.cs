@@ -26,5 +26,15 @@ namespace App1
         {
             this.InitializeComponent();
         }
+
+        public void register(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(RegisterPage));
+        }
+
+        public void login(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(LoginPage));
+        }
     }
 }

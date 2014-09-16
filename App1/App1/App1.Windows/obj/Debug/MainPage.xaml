@@ -8,8 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Button Content="Button&#xD;&#xA;" HorizontalAlignment="Left" Height="92" Margin="837,669,0,0" VerticalAlignment="Top" Width="522"/>
-
+    	<Button x:ConnectionId='1' Content="新規登録" HorizontalAlignment="Left" Margin="631,351,0,0" VerticalAlignment="Top" Width="106"                 />
+    	<Button x:ConnectionId='2' Content="ログイン" HorizontalAlignment="Left" Margin="631,436,0,0" VerticalAlignment="Top" Width="106"              />
     </Grid>
 </Page>
 
