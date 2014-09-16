@@ -48,6 +48,6 @@
         </Grid>
         <Button Content="ログイン" HorizontalAlignment="Left" Margin="677,468,0,0" Grid.Row="1" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="491,349,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="441"/>
-        <TextBox HorizontalAlignment="Left" Margin="491,233,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="441"/>
+        <TextBox HorizontalAlignment="Left" Margin="491,233,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="441" TextChanged="TextBox_TextChanged"/>
     </Grid>
 </Page>

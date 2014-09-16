@@ -25,6 +25,8 @@ namespace App1
         public MainPage()
         {
             this.InitializeComponent();
+            HttpClientBasic client = new HttpClientBasic();
+            client.getClient();
         }
 
         public void register(object sender, RoutedEventArgs e)
